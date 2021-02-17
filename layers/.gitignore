@@ -2,3 +2,4 @@ meta-raspberrypi
 meta-openembedded
 meta-ftp
 meta-virtualization
+meta-libvirt
